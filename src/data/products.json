@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with USB receiver",
+    "price": 799.00,
+    "category": "Electronics",
+    "in_stock": true,
+    "quantity": 150
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches",
+    "price": 2499.00,
+    "category": "Electronics",
+    "in_stock": true,
+    "quantity": 80
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with cushioned sole",
+    "price": 1899.00,
+    "category": "Footwear",
+    "in_stock": false,
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "Stainless Steel Water Bottle",
+    "description": "1L insulated water bottle, keeps drinks cold for 24 hours",
+    "price": 599.00,
+    "category": "Home & Kitchen",
+    "in_stock": true,
+    "quantity": 320
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Headphones",
+    "description": "Over-ear noise-cancelling headphones with 30hr battery",
+    "price": 3499.00,
+    "category": "Electronics",
+    "in_stock": true,
+    "quantity": 45
+  }
+]
